@@ -1,7 +1,7 @@
-这是一个测试用的文件格式
+
 #include <stdio.h>
 
 int main(){
 printf("hello github /n");
-return 0;
+return 0;             //这是一个测试用的文件格式
 }
